@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Mateus!<img align="right" height="250" src="https://media.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" /></h1>
+<h1 align="left">Olá, eu sou o Mateus!</h1>
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAC!
 
