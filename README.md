@@ -1,28 +1,30 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Mateus Coelho and my nickname is "Mateus.C"!
+<h1 align="left">Olá, eu sou o Mateus!<img align="right" height="250" src="https://media.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" /></h1>
 
-I'm a Systems Analyst and Developer at AMF Promotora
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAC!
 
-<h3>TOOLS AND TECHNOLOGIES</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/>
-</div>
+<br>
 
-<div>
-<a href="https://instagram.com/mateus.c03" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mateus.c000@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateuscoelho1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Meu nome é Mateus Coelho, tenho 28 anos, sou morador de Florianópolis. Atualmente cursando o 4º semestre de ADS!
+
+  - ⚡Meus passatempos favoritos são assistir filmes e séries, fazer trilhas e tours gastronomicos!
+</details>
+
+<br>
+
+<h2 align="left">Tecnologias utilizadas</h1>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white)
 
 <div>
 <a href="https://github.com/mateus00000">
@@ -30,4 +32,16 @@ I'm a Systems Analyst and Developer at AMF Promotora
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus00000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/mateus00000/mateus00000/blob/output/github-contribution-grid-snake.svg)
+<h2>Redes Sociais</h2>
+
+<div>
+<a href="https://instagram.com/mateus.c03" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mateus.c000@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateuscoelho1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateus00000/mateus00000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateus00000/mateus00000/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateus00000/mateus00000/output/github-contribution-grid-snake.svg">
+</picture>
