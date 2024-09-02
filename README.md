@@ -10,6 +10,9 @@
   - 💬 Meu nome é Mateus Coelho, tenho 28 anos, sou morador de Florianópolis. Atualmente cursando o 4º semestre de ADS!
 
   - ⚡Meus passatempos favoritos são assistir filmes e séries, fazer trilhas e tours gastronomicos!
+
+  - 📫 How to reach me: mateus.c000@outlook.com
+    
 </details>
 
 <br>
@@ -43,6 +46,5 @@
 
 <div>
 <a href="https://instagram.com/mateus.c03" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mateus.c000@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14000?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateuscoelho1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
